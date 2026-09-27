@@ -95,6 +95,7 @@ function htmlDocument(page, body, slug = '', home = false) {
   return `<!doctype html>
 <html lang="en-IN"><head>
   <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="google-site-verification" content="16CuAESALl7ytECbCMyA-kxaSZP3Hy2SfhxOi3Kkw60">
   <title>${escapeHtml(page.title)}</title><meta name="description" content="${escapeHtml(page.description)}">
   <meta name="keywords" content="${escapeHtml(page.keywords.join(', '))}"><meta name="robots" content="index, follow, max-image-preview:large">
   <link rel="canonical" href="${canonical}"><link rel="icon" href="/assets/images/favicon.png" type="image/png">
