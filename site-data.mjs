@@ -2,7 +2,7 @@ export const SITE = {
   name: '6 Club',
   url: 'https://6club.6club.co.in',
   logo: '/assets/images/logo.png',
-  registerUrl: 'https://www.veergame44.com/#/register?invitationCode=24961166303',
+  registerUrl: 'https://www.raxi1.com/#/register?invitationCode=27913203396',
   loginUrl: 'https://6club.co.in/login'
 };
 
